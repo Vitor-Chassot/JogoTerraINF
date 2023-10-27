@@ -22,6 +22,7 @@ força é restituída em 100.
    -Ao perder as 3 vidas você perde o jogo.
    Ao acabar o jogo, se porque perdeu todas as vidas ou porque passou por todas as fases, será exibida uma
 tela correspondente, e, caso tenha pontuação suficiente, poderá incluir seu nome no ranking!
+Para funcionar, deve-se baixar todos os arquivos, inclusive os de audio e imagem, e não deve haver conflito de nomes com arquivos de audio e imagem do jogo com outros arquivos em um mesmo diretório. 
 
 
    
